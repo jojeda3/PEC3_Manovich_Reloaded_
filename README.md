@@ -52,7 +52,7 @@ Este holograma canta gracias a una tecnología llamada [**vocaloid**.](https://w
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
 
 
-## Bassins des Lumières
+## Re-descubriendo la hibridación: Bassins des Lumières
 ![Foto Bassins](https://media.sudouest.fr/12808970/1000x500/herge-tintinimaginatio-2022.jpg?v=1667235764)
 
 [**Web del museo Bassins des Lumières**.](https://www.bassins-lumieres.com/fr)
