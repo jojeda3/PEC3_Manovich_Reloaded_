@@ -74,7 +74,7 @@ La evolución tecnológica de los proyectores láser nos permite mantenerlos enc
 [**Proyector Samsung con auto-blending**.](https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
 
 
-Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes al ritmo de la música y podemos adaptar la imagene proyectada al espacio escénico del museo.
+Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes al ritmo de la música y podemos adaptar la imagen proyectada al espacio escénico del museo.
 
 
 ![Foto Software Resolumen](https://resolume.com/forum/download/file.php?id=3256&sid=ded19f9b52a198297fe79f1b42772f7e&mode=view)
