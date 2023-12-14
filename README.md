@@ -53,7 +53,11 @@ Tenemos a nuestra disposición software de código abierto que nos permite jugar
 
 Este holograma canta gracias a una tecnología llamada [**vocaloid**.](https://www.vocaloid.com/en/) **Xavier Serra,** director del grupo de investigación en tecnología musical de la Universitat Pompeu Fabra fue parte del equipo que desarrolló de esta tecnología.
 
->>Esta tecnología que, como todos los sistemas de síntesis de voz, parte de la voz de una cantante real. A partir de ahí puede reproducir cualquier canción a partir de las notas de una partitura. Eso sí, aclara, tiene un registro determinado que no puede cambiar, en este caso el pop, no pudiendo pasarse a otros muy distintos como la ópera o el flamenco.
+>>Esta tecnología que, como todos los sistemas de síntesis de voz, parte de la voz de una cantante real. A partir de ahí puede reproducir cualquier canción a partir de las notas de una partitura. Eso sí, aclara, tiene un registro determinado que no puede cambiar, en este caso el pop, no pudiendo pasarse a otros muy distintos como la ópera o el flamenco. - Xavier Serra
+
+Estamos ante un nuevo concepto fruto de múltiples combinaciones de distintos medios. Programación que permite crear sonido, ilustraciones, sistemas de proyección, motion graphics, IA, imágenes en 3d, etc. Todo ello combinado nos permite hablar del concepto artista virtual.
+
+>>Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles. — Lev Manovich
 
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
 
@@ -88,7 +92,7 @@ Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes
 [**Resolume Arena**.](https://www.resolume.com)
 
 Como citaba Lev Manovich, 
->>vemos cómo la hibridación, facilitada por el software, se convierte en una de las estéticas predominantes de los medios contemporáneos.
+>>vemos cómo la hibridación, facilitada por el software, se convierte en una de las estéticas predominantes de los medios contemporáneos.  — Lev Manovich
 >>
 Y es que, en estos espacios inmersivos predomina la estética visual resultada de medios de hibridación y facilitada por el software.
 
