@@ -66,7 +66,7 @@ Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver 
 En la antigua base submarina de Burdeos, Culturespaces creó un centro de arte digital en 2020. Les Bassins des Lumières, el mayor centro de arte digital del mundo, presentan exposiciones digitales inmersivas monumentales dedicadas a los grandes artistas de la historia del arte y la creación contemporánea.
 Dentro de este museo se encuentra Le Cube ,un espacio insonorizado y aislado de 220 m² y 8 m de altura para una experiencia aparte y la promoción de artistas especializados en arte inmersivo a partir de creaciones contemporáneas.
 Actualmente se expone Las aventuras de Tintín, como sabéis es una de las más influyentes series europeas de historietas del siglo xx. Creada por el autor belga Georges Remi.
-El espacion inmersivo nos permite proyectar en 360 grados elementos gráficos estáticos y elementos motion graphics con estractos de las historietas de Tintín.
+El espacion inmersivo nos permite proyectar en 360 grados elementos gráficos estáticos y elementos motion graphics con extractos de las historietas de Tintín.
 Las imágenes sobredimensionadas, usando las paletas de colores, los grafismos y trazos de los diseños originales, nos permite conectar con la estética que creó Georges Remi.
 
 
