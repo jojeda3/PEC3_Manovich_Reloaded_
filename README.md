@@ -47,8 +47,8 @@ El acto culturar de asistir a un concierto no solo supone ver al artista en dire
 
 ## Hibridación de la música, animación 3D y la tecnología audiovisual
 
-Múltiples factores hacen posible la creación de un espectáculo como el de Hatsune Miku. Un show de un artista virtual se alimenta del desarrollo en la animación 3D para poder darle vida. Al igual ocurre con la composición y creación musical, el desarrollo de software como Pro Tools, nos permite elaborar multipistas de audio sin la necesidad de tener conocimientos musicales. En nuestro caso, el desarrollo de un software como [**Vocaloid**.](https://www.vocaloid.com/en/) es el culpable de que, simplemente tecleando un texto, Hatsune cantará nuestra letra.
-A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es.
+Múltiples factores perfectamente coordinados hacen posible la creación de un espectáculo como el de Hatsune Miku. Un show de un artista virtual se alimenta del desarrollo en la animación 3D para poder darle vida. Al igual ocurre con la composición y creación musical, el desarrollo de software como Pro Tools, nos permite elaborar multipistas de audio sin la necesidad de tener conocimientos musicales. En nuestro caso, el desarrollo de un software como [**Vocaloid**.](https://www.vocaloid.com/en/) es el culpable de que, simplemente tecleando un texto, Hatsune cantará nuestra letra.
+A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es. 
 
 
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
