@@ -29,11 +29,11 @@ Mostraré dos ejemplos de hibridación de medios, la estrella del pop digital Ha
 
 ![Imagen de Hatsune Miku](https://img2.rtve.es/i/?w=1600&i=1689160036944.jpg)
 
-Hatsune Miku, una cantante adolescente, de un metro y medio de altura y con una gran melena verde. No sería nada raro si no fuera por un pequeño detalle: no es de carne y hueso, se trata de una cantante virtual.Su nombre ya lo dice todo, **‘el primer sonido del futuro’**
+_Hatsune Miku, una cantante adolescente, de un metro y medio de altura y con una gran melena verde. No sería nada raro si no fuera por un pequeño detalle: no es de carne y hueso, se trata de una cantante virtual.Su nombre ya lo dice todo, **‘el primer sonido del futuro’**
 Nació en 2007 en Japón, creada por el programa Vocaloid, un software desarrollado para editar música que permite crear canciones en su totalidad, desde la voz a la letra o la melodía. Pero aquí hay otro aspecto innovador: las canciones que interpreta Miku las han compuesto los propios usuarios de la aplicación. 
-En paralelo al fenómeno artístico, alrededor de su figura se ha construido un universo enorme colaborativo entre creadores que usan su imagen, que va desde la propia música a ilustraciones, merchandising o incluso novelas.
+En paralelo al fenómeno artístico, alrededor de su figura se ha construido un universo enorme colaborativo entre creadores que usan su imagen, que va desde la propia música a ilustraciones, merchandising o incluso novelas. - Maria Comabella 2023._
 
-*Extracto de RTVE [rtve.es](https://www.rtve.es/television/20230706/hatsune-miku-artista-pop-digital-cazador-cerebros/2451876.shtml)*
+
 
 Nos encontramos con un nuevo concepto de artista o fenómeno de masas que ofrecen conciertos. 
 El fenómeno fan que produce esta artista virtual queda representada en sus conciertos. Recintos llenos para ver, oir y bailar con Hatsune Miku. Una puesta en escena típica de grandes artistas, con la única diferencia de que Hatsune aparece en forma de holograma. La creación musical colaborativa es parte esencial de este éxito, los usuarios pueden hacer remix de canciones creadas por otros usuarios. Podemos proponer que otros usuarios acaben nuestra canción, etc.
@@ -108,7 +108,7 @@ Disfruta del espacio inmersivo Tintín [**Ver exposición**.](https://www.youtub
 
 - Manovich, Lev. (2013).  El Software toma el mando**. Barcelona: Editorial UOC.
 - WEB, new.samsung.com (https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
-- WEB, RTVE.es (https://www.rtve.es/television/20230706/hatsune-miku-artista-pop-digital-cazador-cerebros/2451876.shtml)
+- María Comabella, 06.07.2023. Hatsune Miku, la estrella del pop digital. BLOG digital Ciencia y Futuro de RTVE. www.RTTVE.es (https://www.rtve.es/television/20230706/hatsune-miku-artista-pop-digital-cazador-cerebros/2451876.shtml)
 - WEB, Manovich.net (http://manovich.net/index.php/about)
 - Manovich, Lev. "The Language of New Media" (2001)*
 - Ferran Adell (7 mar 2013) Nuevos Medios: Lev Manovich:(https://multimedia.uoc.edu/blogs/fem/es/fundamentos-teoriasautores-lev-manovich/)
