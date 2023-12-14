@@ -57,7 +57,6 @@ Este holograma canta gracias a una tecnología llamada [**vocaloid**.](https://w
 
 Estamos ante un nuevo concepto fruto de múltiples combinaciones de distintos medios. Programación que permite crear sonido, ilustraciones, sistemas de proyección, motion graphics, IA, imágenes en 3d, etc. Todo ello combinado nos permite hablar del concepto artista virtual.
 
->>Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles. — Lev Manovich
 
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
 
