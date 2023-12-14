@@ -12,11 +12,11 @@
 *Fotografía de Lev Manovich*
 
 
-## Planteamiento
+## Acerca de Lev Manovich
 
-Lev Manovich es un artista, escritor y uno de los teóricos más influyentes de la cultura digital en todo el mundo. Actualmente es profesor presidencial de Ciencias de la Computación en el Centro de Graduados de la Universidad de la Ciudad de Nueva York y Director del Laboratorio de Análisis Cultural. Después de estudiar pintura, arquitectura y cine, Manovich comenzó a usar ordenadores para crear arte digital en 1984. Ha desempeñado un papel clave en la creación de cuatro nuevos campos de investigación: estudios de nuevos medios (1991-), estudios de software (2001-), análisis cultural (2007-) y estética de IA (2018-).
+_Lev Manovich es un artista, escritor y uno de los teóricos más influyentes de la cultura digital en todo el mundo. Actualmente es profesor presidencial de Ciencias de la Computación en el Centro de Graduados de la Universidad de la Ciudad de Nueva York y Director del Laboratorio de Análisis Cultural. Después de estudiar pintura, arquitectura y cine, Manovich comenzó a usar ordenadores para crear arte digital en 1984. Ha desempeñado un papel clave en la creación de cuatro nuevos campos de investigación: estudios de nuevos medios (1991-), estudios de software (2001-), análisis cultural (2007-) y estética de IA (2018-). - Lev Manovich, Short Bio._ 
 
-*Extracto de su web [Manovich.net](http://manovich.net/index.php/about)*
+## La hibridación según Lev Manovich
 
 En su libro, **el Software toma el mando,** el autor describe el proceso de hibridación de los medios a consecuencia de la evolución del ordenador como metamedio. Una vez asentado el ordenador como simulador de medios, comienzan a surgir medios híbridos, fusiones de medios que ofrecen una experiencia nueva y coherente, que distan mucho de la experimentación de los elementos uno por uno.
 >>El resultado de la hibridación no es tan solo la suma mecánica de las partes
