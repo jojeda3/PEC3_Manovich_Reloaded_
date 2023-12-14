@@ -21,7 +21,7 @@ Lev Manovich es un artista, escritor y uno de los teóricos más influyentes de 
 En su libro, **el Software toma el mando,** el autor describe el proceso de hibridación de los medios a consecuencia de la evolución del ordenador como metamedio. Una vez asentado el ordenador como simulador de medios, comienzan a surgir medios híbridos, fusiones de medios que ofrecen una experiencia nueva y coherente, que distan mucho de la experimentación de los elementos uno por uno.
 >>El resultado de la hibridación no es tan solo la suma mecánica de las partes
 existentes previamente, sino una nueva "especie": un nuevo tipo de
-estética visual que no existía antes.
+estética visual que no existía antes.  — Lev Manovich
 
 Mostraré dos ejemplos de hibridación de medios, la estrella del pop digital Hatsune Miku y el museo de arte inmersivo Bassins des Lumières.
 
