@@ -38,6 +38,8 @@ En paralelo al fenómeno artístico, alrededor de su figura se ha construido un 
 Nos encontramos con un nuevo concepto de artista o fenómeno de masas que ofrecen conciertos. 
 El fenómeno fan que produce esta artista virtual queda representada en sus conciertos. Recintos llenos para ver, oir y bailar con Hatsune Miku. Una puesta en escena típica de grandes artistas, con la única diferencia de que Hatsune aparece en forma de holograma. La creación musical colaborativa es parte esencial de este éxito, los usuarios pueden hacer remix de canciones creadas por otros usuarios. Podemos proponer que otros usuarios acaben nuestra canción, etc.
 
+
+
 El avance y desarrollo en los equipos de proyección, permitía en los macro-conciertos incorporar sistemas de realizaciones de video y proyectar estas imágenes en pantallas. De tal forma que los espectadores puedan ver primeros planos de sus artistas favoritos. 
 Actualmente el avance de la tecnología LED y el desarrollo de módulos gráficos, permiten crear enormes pantallas formadas por módulos de 50x50cm o 50x100cm. El público asistente a los grandes conciertos están adaptados a seguir el espectáculo mediante estas pantallas. Por lo que el visionado del show de sus artista favoritos es mediante un dispositivo digital. En los conciertos de Hatsune Miku o la de cualquier artista virtual suponer seguir el mismo patrón, ir a un concierto y ver a tu artista favorito mediante un medio digital, ya sea proyectado, sobre soporte LED o mediante holograma.
 El acto culturar de asistir a un concierto no solo supone ver al artista en directo, también implica bailar, conocer a personas que comparten tus gustos musicales y disfrutar de la puesta en escena y del sonido.
