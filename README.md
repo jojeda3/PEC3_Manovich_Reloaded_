@@ -46,7 +46,7 @@ El acto culturar de asistir a un concierto no solo supone ver al artista en dire
 
 ![Concierto de Hatsune Miku](https://i.cbc.ca/1.3597213.1580395854!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/hatsune-miku.JPG)
 
-Tenemos a nuestra disposición software de código abierto que nos permite jugar con su voz y su ilustración. El fan tiene en su mano el poder de customizar a su artista favorita, escribir la letra de las canciones de Hatsune, crear su vestimenta, el merchandising, diseñar, crear carteles o cualquier producto de ilustración usando su imagen sin tener que pagar derechos de autor. 
+Tenemos a nuestra disposición software de código abierto que nos permite jugar con su voz y su ilustración. El fan tiene en su mano el poder de customizar a su artista favorita, escribir la letra de las canciones de Hatsune, crear su vestimenta, el merchandising, diseñar, crear carteles o cualquier producto de ilustración usando su imagen sin tener que pagar derechos de autor. Es decir, que los fans tienen el control y la libertad de customizar a Hatsune Miku.
 
 
 ![Taza de Hatsune Miku](https://www.orientalmarket.es/shop/24208-large_default/HATSUNE-MIKU-Taza-320-ml-Hastune-Miku.jpg)
@@ -74,7 +74,7 @@ Las imágenes sobredimensionadas, usando las paletas de colores, los grafismos y
 
 El desarrollo de la tecnología audiovisual, el avance en el software de procesamiento de elementos gráficos y la creatividad humana, permiten que estos proyectos cobren vida. 
 
-La evolución tecnológica de los proyectores láser nos permite mantenerlos encendido en largos periodos de tiempo. La cantidad de lúmenes que ofrecen nos permite tener unas imágenes con una luminosidad suficiente. A parte de los proytectores, necesitamos tecnología que nos permita sincronizar los proyectores y las imágenes. Cuando con varios proyectores proyectamos una sola imagen usamos el blending. De esta manera no vemos cortes entre imágenes. Por lo que podemos crear una imagen sin fin. Incluso existen proyectores con cámaras fontales para reajustar solos los defases con su proyector vecino.
+La evolución tecnológica de los proyectores láser nos permite mantenerlos encendido en largos periodos de tiempo y tener una cantidad de lúmenes suficiente para poder tener unas imágenes con la luminosidad adecuada. A parte de los proyectores, necesitamos tecnología que nos permita sincronizar proyectores e imágenes. Cuando con varios proyectores proyectamos una sola imagen usamos el blending. De esta manera no vemos cortes entre imágenes. Por lo que podemos crear una imagen sin fin. Incluso existen proyectores con cámaras fontales para reajustar solos los defases con su proyector vecino.
 
 ![Foto Blending](https://img.global.news.samsung.com/mx/wp-content/uploads/2023/09/The-Freestyle-2nd-Gen_main1.jpeg)
 [**Proyector Samsung con auto-blending**.](https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
@@ -90,7 +90,9 @@ Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes
 Como citaba Lev Manovich, 
 >>vemos cómo la hibridación, facilitada por el software, se convierte en una de las estéticas predominantes de los medios contemporáneos.
 >>
-Y es que, en estos espacios inmersivos predomina la estética visual resultada de medios de hibridación.
+Y es que, en estos espacios inmersivos predomina la estética visual resultada de medios de hibridación y facilitada por el software.
+
+El desarrollo de software de creación de elementos gráficos, nos permite ilustrar y darle movimientos a las ilustraciones creadas. Podemos establecer paletas de colores idénticas a las que usó George Remi. Y podemos jugar con los ritmos de la animación. En este espacion inmersivo no prima el conocer cuales eran las aventuras de nuestro querido Tintín. Sin no que nos adentra en el concepto, en la visión y en el estilo visual y narrativo de la obra. 
 
 Disfruta del espacio inmersivo Tintín [**Ver exposición**.](https://www.youtube.com/watch?v=G11SNOSdFBE)
 
