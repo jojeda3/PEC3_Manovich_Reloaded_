@@ -93,7 +93,7 @@ Como citaba Lev Manovich,
 Y es que, en estos espacios inmersivos predomina la estética visual resultada de medios de hibridación y facilitada por el software.
 
 El desarrollo de software de creación de elementos gráficos, nos permite ilustrar y animar las ilustraciones creadas. Podemos establecer paletas de colores idénticas a las que usó George Remi. Y podemos jugar con los ritmos de la animación. En este espacio inmersivo no prima conocer cuales eran las aventuras de nuestro querido Tintín. El objetivo es adentrarnos en el concepto, en la visión y en el estilo visual y narrativo de la obra. Digamos que este tipo de arte digital, se basa en usar los mismos ingredientes del autor original, como son: la paleta de colores, las ilustraciones y la identidad visual, pero creando una obra digital nueva. Con otro ritmo, otras dimensiones, incorporando sonido, animación, transiciones, efectos, deformaciones,...
-Estos espacios inmersivos se podrían contemplar como un nuevo ámbito cultural, no deberían de considerarse como una expansión de una obra.
+Estos espacios inmersivos se podrían contemplar como un nuevo ámbito cultural, no deberían de considerarse como una adaptación de una obra ya creada a otro medio.
 
 Disfruta del espacio inmersivo Tintín [**Ver exposición**.](https://www.youtube.com/watch?v=G11SNOSdFBE)
 
