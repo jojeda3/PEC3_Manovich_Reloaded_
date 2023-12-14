@@ -19,11 +19,11 @@ _Lev Manovich es un artista, escritor y uno de los teóricos más influyentes de
 ## La hibridación según Lev Manovich
 
 En su libro, **el Software toma el mando,** el autor describe el proceso de hibridación de los medios a consecuencia de la evolución del ordenador como metamedio. Una vez asentado el ordenador como simulador de medios, comienzan a surgir medios híbridos, fusiones de medios que ofrecen una experiencia nueva y coherente, que distan mucho de la experimentación de los elementos uno por uno.
->>El resultado de la hibridación no es tan solo la suma mecánica de las partes
-existentes previamente, sino una nueva "especie": un nuevo tipo de
-estética visual que no existía antes.  — Lev Manovich
+>>El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva "especie": un nuevo tipo de estética visual que no existía antes.  — Lev Manovich.
 
 Mostraré dos ejemplos de hibridación de medios, la estrella del pop digital Hatsune Miku y el museo de arte inmersivo Bassins des Lumières.
+
+
 
 ## Re-descubriendo la hibridación: Hatsune Miku
 
@@ -33,35 +33,34 @@ _Hatsune Miku, una cantante adolescente, de un metro y medio de altura y con una
 Nació en 2007 en Japón, creada por el programa Vocaloid, un software desarrollado para editar música que permite crear canciones en su totalidad, desde la voz a la letra o la melodía. Pero aquí hay otro aspecto innovador: las canciones que interpreta Miku las han compuesto los propios usuarios de la aplicación. 
 En paralelo al fenómeno artístico, alrededor de su figura se ha construido un universo enorme colaborativo entre creadores que usan su imagen, que va desde la propia música a ilustraciones, merchandising o incluso novelas. - Maria Comabella 2023._
 
-
-
 Nos encontramos con un nuevo concepto de artista o fenómeno de masas que ofrecen conciertos. 
 El fenómeno fan que produce esta artista virtual queda representada en sus conciertos. Recintos llenos para ver, oir y bailar con Hatsune Miku. Una puesta en escena típica de grandes artistas, con la única diferencia de que Hatsune aparece en forma de holograma. La creación musical colaborativa es parte esencial de este éxito, los usuarios pueden hacer remix de canciones creadas por otros usuarios. Podemos proponer que otros usuarios acaben nuestra canción, etc.
 
-
+## Progreso y evolución.
 
 El avance y desarrollo en los equipos de proyección, permitía en los macro-conciertos incorporar sistemas de realizaciones de video y proyectar estas imágenes en pantallas. De tal forma que los espectadores puedan ver primeros planos de sus artistas favoritos. 
-Actualmente el avance de la tecnología LED y el desarrollo de módulos gráficos, permiten crear enormes pantallas formadas por módulos de 50x50cm o 50x100cm. El público asistente a los grandes conciertos están adaptados a seguir el espectáculo mediante estas pantallas. Por lo que el visionado del show de su artista favorito es mediante un dispositivo digital. En los conciertos de Hatsune Miku o la de cualquier artista virtual supone seguir el mismo patrón, ir a un concierto y ver a tu artista favorito mediante un medio digital, ya sea proyectado, sobre soporte LED o mediante holograma.
+Actualmente el avance de la tecnología LED y el desarrollo de módulos gráficos, permiten crear enormes pantallas. El público asistente a los grandes conciertos están adaptados a seguir el espectáculo mediante estas pantallas. Por lo que el visionado del show de su artista favorito es mediante un dispositivo digital. En los conciertos de Hatsune Miku o la de cualquier artista virtual supone seguir el mismo patrón, ir a un concierto y ver a tu artista favorito mediante un medio digital, ya sea proyectado, sobre soporte LED o mediante holograma.
 El acto culturar de asistir a un concierto no solo supone ver al artista en directo, también implica bailar, conocer a personas que comparten tus gustos musicales y disfrutar de la puesta en escena y del sonido.
+
 
 ![Concierto de Hatsune Miku](https://i.cbc.ca/1.3597213.1580395854!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/hatsune-miku.JPG)
 
-Tenemos a nuestra disposición software de código abierto que nos permite jugar con su voz y su ilustración. El fan tiene en su mano el poder de customizar a su artista favorita, escribir la letra de las canciones de Hatsune, crear su vestimenta, el merchandising, diseñar, crear carteles o cualquier producto de ilustración usando su imagen sin tener que pagar derechos de autor. Es decir, que los fans tienen el control y la libertad de customizar a Hatsune Miku.
+## Hibridación de la música, animación 3D y la tecnología audiovisual
 
-
-![Taza de Hatsune Miku](https://www.orientalmarket.es/shop/24208-large_default/HATSUNE-MIKU-Taza-320-ml-Hastune-Miku.jpg)
-
-Este holograma canta gracias a una tecnología llamada [**vocaloid**.](https://www.vocaloid.com/en/) **Xavier Serra,** director del grupo de investigación en tecnología musical de la Universitat Pompeu Fabra fue parte del equipo que desarrolló de esta tecnología.
-
->>Esta tecnología que, como todos los sistemas de síntesis de voz, parte de la voz de una cantante real. A partir de ahí puede reproducir cualquier canción a partir de las notas de una partitura. Eso sí, aclara, tiene un registro determinado que no puede cambiar, en este caso el pop, no pudiendo pasarse a otros muy distintos como la ópera o el flamenco. - Xavier Serra
-
-Estamos ante un nuevo concepto fruto de múltiples combinaciones de distintos medios. Programación que permite crear sonido, ilustraciones, sistemas de proyección, motion graphics, IA, imágenes en 3d, etc. Todo ello combinado nos permite hablar del concepto artista virtual.
+Múltiples factores hacen posible la creación de un espectáculo como el de Hatsune Miku. Un show de un artista virtual se alimenta del desarrollo en la animación 3D para poder darle vida. Al igual ocurre con la composición y creación musical, el desarrollo de software como Pro Tools, nos permite elaborar multipistas de audio sin la necesidad de tener conocimientos musicales. En nuestro caso, el desarrollo de un software como [**Vocaloid**.](https://www.vocaloid.com/en/) es el culpable de que, simplemente tecleando un texto, Hatsune cantará nuestra letra.
+A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es.
 
 
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
 
 
+
+
 ## Re-descubriendo la hibridación: Bassins des Lumières
+
+
+
+
 ![Foto Bassins](https://media.sudouest.fr/12808970/1000x500/herge-tintinimaginatio-2022.jpg?v=1667235764)
 
 [**Web del museo Bassins des Lumières**.](https://www.bassins-lumieres.com/fr)
