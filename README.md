@@ -12,7 +12,7 @@
 *Fotografía de Lev Manovich*
 
 
-## Acerca de Lev Manovich
+## Acerca de Lev Manovich.
 
 _Lev Manovich es un artista, escritor y uno de los teóricos más influyentes de la cultura digital en todo el mundo. Actualmente es profesor presidencial de Ciencias de la Computación en el Centro de Graduados de la Universidad de la Ciudad de Nueva York y Director del Laboratorio de Análisis Cultural. Después de estudiar pintura, arquitectura y cine, Manovich comenzó a usar ordenadores para crear arte digital en 1984. Ha desempeñado un papel clave en la creación de cuatro nuevos campos de investigación: estudios de nuevos medios (1991-), estudios de software (2001-), análisis cultural (2007-) y estética de IA (2018-). - Lev Manovich, Short Bio._ 
 
@@ -25,7 +25,7 @@ Mostraré dos ejemplos de hibridación de medios, la estrella del pop digital Ha
 
 
 
-## Re-descubriendo la hibridación: Hatsune Miku
+## Re-descubriendo la hibridación: Hatsune Miku.
 
 ![Imagen de Hatsune Miku](https://img2.rtve.es/i/?w=1600&i=1689160036944.jpg)
 
@@ -45,10 +45,10 @@ El acto culturar de asistir a un concierto no solo supone ver al artista en dire
 
 ![Concierto de Hatsune Miku](https://i.cbc.ca/1.3597213.1580395854!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/hatsune-miku.JPG)
 
-## Hibridación de la música, animación 3D y la tecnología audiovisual
+## Hibridación de la música, animación 3D y la tecnología audiovisual.
 
 Múltiples factores perfectamente coordinados hacen posible la creación de un espectáculo como el de Hatsune Miku. Un show de un artista virtual se alimenta del desarrollo en la animación 3D para poder darle vida. Al igual ocurre con la composición y creación musical, el desarrollo de software como Pro Tools, nos permite elaborar multipistas de audio sin la necesidad de tener conocimientos musicales. En nuestro caso, el desarrollo de un software como [**Vocaloid**.](https://www.vocaloid.com/en/) es el culpable de que, simplemente tecleando un texto, Hatsune cantará nuestra letra.
-A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es. 
+A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es.
 
 
 Disfruta del concierto de Hatsune Mike que ofreción en Japón este año [**Ver concierto**.](https://www.youtube.com/watch?v=muCkNGltr0Q)
@@ -74,6 +74,9 @@ Las imágenes sobredimensionadas, usando las paletas de colores, los grafismos y
 
 ![Foto Bassins](https://cdn.sortiraparis.com/images/80/99944/807105-tintin-l-aventure-immersive-a-l-atelier-des-lumieres-l-exposition-insolite-a-vivre-nos-photos.jpg)
 
+
+## Progreso y evolución.
+
 El desarrollo de la tecnología audiovisual, el avance en el software de procesamiento de elementos gráficos y la creatividad humana, permiten que estos proyectos cobren vida. 
 
 La evolución tecnológica de los proyectores láser nos permite mantenerlos encendido en largos periodos de tiempo y tener una cantidad de lúmenes suficiente para poder tener unas imágenes con la luminosidad adecuada. A parte de los proyectores, necesitamos tecnología que nos permita sincronizar proyectores e imágenes. Cuando con varios proyectores proyectamos una sola imagen usamos el blending. De esta manera no vemos cortes entre imágenes. Por lo que podemos crear una imagen sin fin. Incluso existen proyectores con cámaras fontales para reajustar solos los defases con su proyector vecino.
@@ -84,10 +87,9 @@ La evolución tecnológica de los proyectores láser nos permite mantenerlos enc
 
 Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes al ritmo de la música y podemos adaptar la imagen proyectada al espacio escénico del museo.
 
-
-![Foto Software Resolumen](https://resolume.com/forum/download/file.php?id=3256&sid=ded19f9b52a198297fe79f1b42772f7e&mode=view)
-
 [**Resolume Arena**.](https://www.resolume.com)
+
+
 
 Como citaba Lev Manovich, 
 >>vemos cómo la hibridación, facilitada por el software, se convierte en una de las estéticas predominantes de los medios contemporáneos.  — Lev Manovich
