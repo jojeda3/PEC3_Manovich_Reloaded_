@@ -93,7 +93,7 @@ La evolución tecnológica de los proyectores láser nos permite mantenerlos enc
 Una vez que la ilustración da el salto al mundo digital, software como Adobe Illustrator, nos permite trazar vectores y poder dibujar en nuestro ordenador. Podemos establecer paletas de colores idénticas a las que usó George Remi, siendo factible crear y simular sus viñetas. A esas ilustraciones digitales le podemos dotar de movimiento usando herramientas propias del cine o de la producción de video. Con los editores no lineales los editores pueden establecer una narrativa personalizada. Además de poder ajustar dimensiones y proporciones para adaptar el resultado a las paredes de nuestro museo. Pero no solo de las técnicas de la ilustración y animación se nutren los espaciones inmesivos, también se alimenta de técnicas propias del cine como el guión, la composición o el ritmo. 
 
 Se usan diversas combinaciones de técnicas de diferentes medios tradicionales como el dibujo vectorial y de técnicas logarítmicas como el procesamiento de partículas.
-Como podemos observar la mezcla de propiedades y técnicas se intercambian, dando como resultado una nueva especie.
+Como podemos observar, la mezcla de propiedades y técnicas se intercambian, dando como resultado una nueva especie.
 
 >>Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a
 contener infinitas nuevas especies. — Lev Manovich
