@@ -25,7 +25,7 @@ Mostraré dos ejemplos de hibridación de medios, la estrella del pop digital Ha
 
 
 
-## Re-descubriendo la hibridación: Hatsune Miku.
+## Re-descubriendo la hibridación: Hatsune Miku
 
 ![Imagen de Hatsune Miku](https://img2.rtve.es/i/?w=1600&i=1689160036944.jpg)
 
@@ -36,7 +36,7 @@ En paralelo al fenómeno artístico, alrededor de su figura se ha construido un 
 Nos encontramos con un nuevo concepto de artista o fenómeno de masas que ofrecen conciertos. 
 El fenómeno fan que produce esta artista virtual queda representada en sus conciertos. Recintos llenos para ver, oir y bailar con Hatsune Miku. Una puesta en escena típica de grandes artistas, con la única diferencia de que Hatsune aparece en forma de holograma. La creación musical colaborativa es parte esencial de este éxito, los usuarios pueden hacer remix de canciones creadas por otros usuarios. Podemos proponer que otros usuarios acaben nuestra canción, etc.
 
-## Progreso y evolución.
+## Progreso y evolución
 
 El avance y desarrollo en los equipos de proyección, permitía en los macro-conciertos incorporar sistemas de realizaciones de video y proyectar estas imágenes en pantallas. De tal forma que los espectadores puedan ver primeros planos de sus artistas favoritos. 
 Actualmente el avance de la tecnología LED y el desarrollo de módulos gráficos, permiten crear enormes pantallas. El público asistente a los grandes conciertos están adaptados a seguir el espectáculo mediante estas pantallas. Por lo que el visionado del show de su artista favorito es mediante un dispositivo digital. En los conciertos de Hatsune Miku o la de cualquier artista virtual supone seguir el mismo patrón, ir a un concierto y ver a tu artista favorito mediante un medio digital, ya sea proyectado, sobre soporte LED o mediante holograma.
@@ -45,7 +45,7 @@ El acto culturar de asistir a un concierto no solo supone ver al artista en dire
 
 ![Concierto de Hatsune Miku](https://i.cbc.ca/1.3597213.1580395854!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/hatsune-miku.JPG)
 
-## Hibridación de la música, animación 3D y la tecnología audiovisual.
+## Hibridación de la música, animación 3D y la tecnología audiovisual
 
 Múltiples factores perfectamente coordinados hacen posible la creación de un espectáculo como el de Hatsune Miku. Un show de un artista virtual se alimenta del desarrollo en la animación 3D para poder darle vida. Al igual ocurre con la composición y creación musical, el desarrollo de software como Pro Tools, nos permite elaborar multipistas de audio sin la necesidad de tener conocimientos musicales. En nuestro caso, el desarrollo de un software como [**Vocaloid**.](https://www.vocaloid.com/en/) es el culpable de que, simplemente tecleando un texto, Hatsune cantará nuestra letra.
 A ello le tenemos que sumar, los avances en la tecnología audiovisual mencionados en el punto anterior. Gracias a la evolución de estos medios, se origina la hibridación y creación de este nuevo concepto. Digo nuevo concepto, porque al hablar de artista digital, ya se entiende en su conjunto lo que es.
@@ -75,7 +75,7 @@ Las imágenes sobredimensionadas, usando las paletas de colores, los grafismos y
 ![Foto Bassins](https://cdn.sortiraparis.com/images/80/99944/807105-tintin-l-aventure-immersive-a-l-atelier-des-lumieres-l-exposition-insolite-a-vivre-nos-photos.jpg)
 
 
-## Progreso y evolución.
+## Progreso y evolución
 
 El desarrollo de la tecnología audiovisual, el avance en el software de procesamiento de elementos gráficos y la creatividad humana, permiten que estos proyectos cobren vida. 
 
@@ -90,14 +90,18 @@ Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes
 [**Resolume Arena**.](https://www.resolume.com)
 
 
+## Hibridación de ilustración, cine y tecnología audiovisual
 
-Como citaba Lev Manovich, 
->>vemos cómo la hibridación, facilitada por el software, se convierte en una de las estéticas predominantes de los medios contemporáneos.  — Lev Manovich
+Una vez que la ilustración da el salto al mundo digital, software como Adobe Illustrator, nos permite trazar vectores y poder dibujar en nuestro ordenador. Podemos establecer paletas de colores idénticas a las que usó George Remi. Por lo que se hace factible crear y simular las viñetas de Remi. A esas ilustraciones digitales le podemos dotar de movimiento usando herramientas propias del cine o de la producción de video. Con los editores no lineales los editores pueden establecer una narrativa personalizada. Además de poder ajustar la dimensiones y proporciones para adaptar el resultado a las paredes de nuestro museo. Pero no solo de las técnicas de la ilustración y animación se nutren los espaciones inmesivos, también se alimenta de técnicas propias del cine como el guión, la composición o el ritmo. 
+
+Se usan diversas combinaciones de técnicas de diferentes medios tradicionales como el dibujo vectorial y técnicas logarítmicas como el procesamiento de partículas o filtros.
+
+
+Como podemos observar la mezcla de propiedades y técnicas se intercambian, dando como resultado una nueva especie.
+
+>>Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a
+contener infinitas nuevas especies. — Lev Manovich
 >>
-Y es que, en estos espacios inmersivos predomina la estética visual resultada de medios de hibridación y facilitada por el software.
-
-El desarrollo de software de creación de elementos gráficos, nos permite ilustrar y animar las ilustraciones creadas. Podemos establecer paletas de colores idénticas a las que usó George Remi. Y podemos jugar con los ritmos de la animación. En este espacio inmersivo no prima conocer cuales eran las aventuras de nuestro querido Tintín. El objetivo es adentrarnos en el concepto, en la visión y en el estilo visual y narrativo de la obra. Digamos que este tipo de arte digital, se basa en usar los mismos ingredientes del autor original, como son: la paleta de colores, las ilustraciones y la identidad visual, pero creando una obra digital nueva. Con otro ritmo, otras dimensiones, incorporando sonido, animación, transiciones, efectos, deformaciones,...
-Estos espacios inmersivos se podrían contemplar como un nuevo ámbito cultural, no deberían de considerarse como una adaptación de una obra ya creada a otro medio.
 
 Disfruta del espacio inmersivo Tintín [**Ver exposición**.](https://www.youtube.com/watch?v=G11SNOSdFBE)
 
