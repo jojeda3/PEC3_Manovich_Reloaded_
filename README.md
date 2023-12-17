@@ -110,8 +110,8 @@ Disfruta del espacio inmersivo Tintín [**Ver exposición**.](https://www.youtub
 ## Referencias y Bibliografía
 
 - Manovich, Lev. (2013).  El Software toma el mando**. Barcelona: Editorial UOC.
-- WEB, new.samsung.com (https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
+- Samsung México 19.09.2023 -Redefiniendo los proyectores portátiles: conoce la creación de The Freestyle de segunda generación-(https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
 - María Comabella, 06.07.2023. Hatsune Miku, la estrella del pop digital. BLOG digital Ciencia y Futuro de RTVE. www.RTTVE.es (https://www.rtve.es/television/20230706/hatsune-miku-artista-pop-digital-cazador-cerebros/2451876.shtml)
-- WEB, Manovich.net (http://manovich.net/index.php/about)
-- Manovich, Lev. "The Language of New Media" (2001)*
+- Lev Manovich, Biografía (http://manovich.net/index.php/about)
+- Lev Manovich "The Language of New Media" (2001)
 - Ferran Adell (7 mar 2013) Nuevos Medios: Lev Manovich:(https://multimedia.uoc.edu/blogs/fem/es/fundamentos-teoriasautores-lev-manovich/)
