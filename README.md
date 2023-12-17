@@ -79,15 +79,13 @@ Las imágenes sobredimensionadas, usando las paletas de colores, los grafismos y
 
 El desarrollo de la tecnología audiovisual, el avance en el software de procesamiento de elementos gráficos y la creatividad humana, permiten que estos proyectos cobren vida. 
 
-La evolución tecnológica de los proyectores láser nos permite mantenerlos encendido en largos periodos de tiempo y tener una cantidad de lúmenes suficiente para poder tener unas imágenes con la luminosidad adecuada. A parte de los proyectores, necesitamos tecnología que nos permita sincronizar proyectores e imágenes. Cuando con varios proyectores proyectamos una sola imagen usamos el blending. De esta manera no vemos cortes entre imágenes. Por lo que podemos crear una imagen sin fin. Incluso existen proyectores con cámaras fontales para reajustar solos los defases con su proyector vecino.
+La evolución tecnológica de los proyectores láser nos permite mantenerlos encendido en largos periodos de tiempo y tener una cantidad de lúmenes suficiente para poder tener unas imágenes con la luminosidad adecuada. A parte de los proyectores, necesitamos tecnología que nos permita sincronizar proyectores e imágenes. Cuando con varios proyectores proyectamos una sola imagen usamos el blending. De esta manera no vemos cortes entre imágenes. Por lo que podemos crear una imagen sin fin. Incluso existen proyectores con cámaras fontales para reajustar solos los defases con su proyector vecino. 
 
 ![Foto Blending](https://img.global.news.samsung.com/mx/wp-content/uploads/2023/09/The-Freestyle-2nd-Gen_main1.jpeg)
 [**Proyector Samsung con auto-blending**.](https://news.samsung.com/mx/redefiniendo-los-proyectores-portatiles-conoce-la-creacion-de-the-freestyle-de-segunda-generacion)
 
 
-Gracias a software como Resolume Arena, podemos sincronizar diferentes imágenes al ritmo de la música y podemos adaptar la imagen proyectada al espacio escénico del museo.
 
-[**Resolume Arena**.](https://www.resolume.com)
 
 
 ## Hibridación de ilustración, cine y tecnología audiovisual
